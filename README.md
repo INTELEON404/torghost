@@ -7,13 +7,10 @@
 </p>
 
 ```text
-  ████████╗ ██████╗ ██████╗  ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
-  ╚══██╔══╝██╔═══██╗██╔══██╗██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
-     ██║   ██║   ██║██████╔╝██║  ███╗███████║██║   ██║███████╗   ██║   
-     ██║   ██║   ██║██╔══██╗██║   ██║██╔══██║██║   ██║╚════██║   ██║   
-     ██║   ╚██████╔╝██║  ██║╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   
-     ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
-                 ANONYMITY TOOLKIT v3.2.0 - MOD BY INTELEON404
+░▀█▀░█▀█░█▀▄░█▀▀░█░█░█▀█░█▀▀░▀█▀
+░░█░░█░█░█▀▄░█░█░█▀█░█░█░▀▀█░░█░
+░░▀░░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░
+             v3.2.0
 ````
 
 ## 💀 ABOUT THE TOOL
@@ -48,7 +45,7 @@ This version (v3.2.0) has been **MODDED & OPTIMIZED** by **INTELEON404** for:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/INTELEON404/torghost.git](https://github.com/INTELEON404/torghost.git)
+    git clone https://github.com/INTELEON404/torghost.git
     cd torghost
     ```
 
@@ -65,7 +62,7 @@ This version (v3.2.0) has been **MODDED & OPTIMIZED** by **INTELEON404** for:
 
 ## ℹ️ HELP MENU
 
-You can view the help menu by running `torghost -h`.
+You can view the help menu by running `torghost.py -h`.
 
 ```text
     COMMANDS:
@@ -85,7 +82,7 @@ You can view the help menu by running `torghost -h`.
 Routes all traffic through Tor.
 
 ```bash
-sudo torghost -s
+sudo python3 torghost.py -s
 ```
 
 ### 🔄 Switch Identity
@@ -93,7 +90,7 @@ sudo torghost -s
 Changes your Tor Exit Node to get a fresh IP address.
 
 ```bash
-sudo torghost -r
+sudo python3 torghost -r
 ```
 
 ### 🔴 Stop Anonymity
@@ -101,7 +98,7 @@ sudo torghost -r
 Flushes IPTables and restores your original internet connection.
 
 ```bash
-sudo torghost -x
+sudo python3 torghost.py -x
 ```
 
 -----
@@ -116,3 +113,4 @@ This tool is for **EDUCATIONAL PURPOSES ONLY**. The developer (INTELEON404) is n
 
   * **Original Author:** [SusmithKrishnan](https://github.com/SusmithKrishnan/)
   * **Modded & Optimized By:** [INTELEON404](https://www.google.com/search?q=https://github.com/INTELEON404)
+
