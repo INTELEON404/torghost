@@ -1,4 +1,4 @@
-# 👻 TORGHOST v3.2.0 - MOD BY INTELEON404
+![](https://github.com/INTELEON404/Template/blob/main/torghost.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python3-blue?style=for-the-badge&logo=python">
@@ -6,12 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
 
-```text
-░▀█▀░█▀█░█▀▄░█▀▀░█░█░█▀█░█▀▀░▀█▀
-░░█░░█░█░█▀▄░█░█░█▀█░█░█░▀▀█░░█░
-░░▀░░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░
-             v3.2.0
-````
+## 👻 TORGHOST v3.2.0 MOD BY INTELEON404
 
 ## 💀 ABOUT THE TOOL
 
