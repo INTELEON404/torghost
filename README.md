@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
 
-## 👻 TORGHOST v3.2.0 MOD BY INTELEON404
+
 
 ## 💀 ABOUT THE TOOL
 
