@@ -185,6 +185,8 @@ On stop, all rules are flushed, DNS is restored from backup, and Tor is shut dow
 > [!Caution]
 This tool is for **EDUCATIONAL PURPOSES ONLY**. The developer (INTELEON404) is not responsible for any misuse or illegal activities performed using this tool. Use it responsibly and legally to protect your privacy.
 
+> [!WARNING]
+> TorGhost modifies IPTables and DNS settings system-wide. Use carefully and always verify your connection after enabling Tor routing.
 ---
 
 ## CREDITS
