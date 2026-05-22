@@ -26,7 +26,7 @@ except ImportError as e:
     sys.exit(1)
 
 # ==================== CONFIGURATION ====================
-VERSION = "3.3.0"
+VERSION = "3.2.1"
 IP_API = "https://api.ipify.org/?format=json"
 TOR_CHECK_API = "https://check.torproject.org/api/ip"
 LATEST_RELEASE_API = "https://api.github.com/repos/INTELEON404/torghost/releases/latest"
