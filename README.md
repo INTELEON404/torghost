@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Language-Python3-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Platform-Linux-orange?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Version-3.3.0-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-3.2.1-red?style=for-the-badge">
 </p>
 
 ---
